@@ -2,7 +2,7 @@
 
 A Flutter game inspired by Flappy Bird. This project is a clone guided by the tutorial from HeyFlutter-Public on YouTube.
 
-![Original tutorial Video](https://www.youtube.com/watch?v=zcs8qRBRz7w&lc=Ugwgd2z1QVTSE_c5RiR4AaABAg) <!-- Reemplaza "link_al_video_de_youtube" con el enlace al video de la primera fase del juego -->
+[Original tutorial Video](https://www.youtube.com/watch?v=zcs8qRBRz7w&lc=Ugwgd2z1QVTSE_c5RiR4AaABAg) <!-- Reemplaza "link_al_video_de_youtube" con el enlace al video de la primera fase del juego -->
 
 ## Getting Started
 
