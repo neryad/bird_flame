@@ -32,10 +32,10 @@ flutter run
 - Flame
 - Flame Audio
 
-
-
-
-
+## Next Steps
+- [ ] Change assets
+- [ ] Implement a level system
+- [ ] Establish Firebase connection
 
 # Demo
 https://github.com/neryad/bird_flame/assets/20806101/67a92d9f-cf30-4fc1-b47f-60f457b2147d
